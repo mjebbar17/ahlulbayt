@@ -1,0 +1,19 @@
+{
+  "name": "ahlulbayt",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mjebbar17/ahlulbayt",
+  "authors": [
+    "Mustafa Jebbar <mjebbar17@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
